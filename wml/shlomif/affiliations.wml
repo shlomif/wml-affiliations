@@ -68,11 +68,11 @@ class="bless" /></a>
 </define-tag>
 
 <define-tag affil_collection_shlomif>
+<affil_latemp />
+<affil_wml />
 <affil_firefox />
 <affil_valid_html />
 <affil_valid_css />
-<affil_wml />
-<affil_latemp />
 </define-tag>
 
 <define-tag affil_collection_berlios>
