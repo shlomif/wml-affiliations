@@ -1,5 +1,4 @@
 #!/bin/bash
-DEST="${HOME}/.latemp/lib/shlomif"
+DEST="${HOME}/conf/wml/Latemp/lib/shlomif/"
 mkdir -p "$DEST"
 cp -f shlomif/affiliations.wml "$DEST"
-

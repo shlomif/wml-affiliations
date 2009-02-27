@@ -67,12 +67,22 @@ class="bless" /></a>
 </p>
 </define-tag>
 
+<define-tag affil_perl_begin>
+<p>
+<a href="http://perl-begin.org/" title="The Perl Beginners' Site"
+class="bless"><img
+src="$(ROOT)/images/perl-begin.png" alt="The Perl Beginners' Site"
+class="bless" /></a>
+</p>
+</define-tag>
+
 <define-tag affil_collection_shlomif>
-<affil_latemp />
-<affil_wml />
 <affil_firefox />
+<affil_perl_begin />
 <affil_valid_html />
 <affil_valid_css />
+<affil_wml />
+<affil_latemp />
 </define-tag>
 
 <define-tag affil_collection_berlios>
